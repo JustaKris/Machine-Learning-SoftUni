@@ -1,0 +1,13 @@
+
+Article going over an entire dataset + DS - https://towardsdatascience.com/machine-learning-on-categorical-variables-3b76ffe4a7cb
+Пример DS проект - https://github.com/xvelichkov/softuni_ai_module/blob/main/data_science/FinalProject/Readability%20Assement%20Commonlit.ipynb
+Nastya проект ML - https://github.com/AnaStasiaS-S/DeepLearning/blob/main/Project.ipynb
+Nastya проект DS - https://github.com/AnaStasiaS-S/Machine-learning/blob/master/Prediction%20of%20adoption%20outcome%20in%20Animal%20Services.ipynb
+
+
+Reading
+
+Documentation - https://scikit-learn.org/stable/data_transforms.html
+		https://scikit-learn.org/stable/modules/preprocessing.html
+		https://scikit-learn.org/stable/modules/model_persistence.html
+		
